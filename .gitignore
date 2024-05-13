@@ -1,0 +1,25 @@
+.env
+.env copy
+.env2
+.eagleenv
+.benv
+__pycache__
+
+
+
+checkpoints
+datasets
+demo
+dlib_model
+
+#log
+evallog
+trainlog
+
+
+# other
+a.png
+卒論完成版_murata.pdf
+video1.mov
+video1.mp4
+result.mp4
