@@ -4,6 +4,7 @@
 .eagleenv
 .benv
 __pycache__
+.git
 
 
 
