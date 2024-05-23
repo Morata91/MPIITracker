@@ -1,5 +1,5 @@
 '''
-train_v8での学習モデル用test.py
+train_v9での学習モデル用test.py
 '''
 
 

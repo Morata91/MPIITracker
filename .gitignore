@@ -5,6 +5,8 @@
 .benv
 __pycache__
 .git
+.my_trash
+
 
 
 
@@ -24,3 +26,4 @@ a.png
 video1.mov
 video1.mp4
 result.mp4
+murata_卒論B発表_提出用.pptx
